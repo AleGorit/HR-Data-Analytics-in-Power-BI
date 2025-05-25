@@ -2,6 +2,9 @@
 
 This project presents an interactive HR analytics dashboard developed using Microsoft Power BI. It aims to provide HR professionals and organizational leaders with actionable insights into key human resource metrics, facilitating data-driven decision-making.
 
+![HR Dashboard](https://github.com/user-attachments/assets/f3e79f19-f5f8-4e79-b18b-f904478bf003)
+
+
 ## 📊 Overview
 
 The dashboard offers a comprehensive analysis of HR data, focusing on:
